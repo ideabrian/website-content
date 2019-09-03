@@ -56,7 +56,7 @@ to your `postcss.config.js`. Create one if it does not exist.
 Now create a CSS file where you want, like in  `src/tailwind.css` and add
 
 ```css
-@tailwind preflight;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 ```
